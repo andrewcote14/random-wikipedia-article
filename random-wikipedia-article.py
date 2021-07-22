@@ -1,6 +1,5 @@
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
-import tkinter as tk
 import time
 import pdfkit
 
